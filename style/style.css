@@ -1,0 +1,25 @@
+body {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    color: forestgreen;
+}
+
+.croissants {
+    max-width: 100%;
+    border-radius: 20px;
+    padding-bottom: 15px;
+}
+
+.email {
+    text-decoration: underline;
+    color: blue;
+}
